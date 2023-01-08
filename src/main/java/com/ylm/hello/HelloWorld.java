@@ -1,10 +1,10 @@
 package com.ylm.hello;
 
 /**
- * @author xb
+ * @author ylm
  */
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello World xb");
+        System.out.println("ylm");
     }
 }
